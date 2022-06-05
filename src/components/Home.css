@@ -1,0 +1,17 @@
+.home{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+.home-section{
+    padding: 30px;
+}
+
+.card-container{
+    display: flex;
+}
+
+.banner-container{
+    padding-bottom: 30px;
+}
